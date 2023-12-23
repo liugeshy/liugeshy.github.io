@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>six</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="/"/>
+  <updated>2023-12-20T08:56:50.233Z</updated>
+  <id>/</id>
+  
+  <author>
+    <name>liuge</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>C++实现RS485通信控制pelco-d协议云台运动</title>
+    <link href="/2023/12/18/C++%E5%AE%9E%E7%8E%B0RS485%E9%80%9A%E4%BF%A1%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93/"/>
+    <id>/2023/12/18/C++实现RS485通信数据传输/</id>
+    <published>2023-12-18T12:14:23.000Z</published>
+    <updated>2023-12-20T08:56:50.233Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="学习" scheme="/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="C++开发" scheme="/tags/C-%E5%BC%80%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>薛定谔的猫</title>
+    <link href="/2020/08/09/%E8%96%9B%E5%AE%9A%E8%B0%94%E7%9A%84%E7%8C%AB/"/>
+    <id>/2020/08/09/薛定谔的猫/</id>
+    <published>2020-08-09T03:12:27.000Z</published>
+    <updated>2020-08-09T08:22:54.375Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="随想" scheme="/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+      <category term="发发牢骚" scheme="/tags/%E5%8F%91%E5%8F%91%E7%89%A2%E9%AA%9A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>年少时的中二</title>
+    <link href="/2020/06/18/%E5%B9%B4%E5%B0%91%E6%97%B6%E7%9A%84%E4%B8%AD%E4%BA%8C/"/>
+    <id>/2020/06/18/年少时的中二/</id>
+    <published>2020-06-18T08:56:41.000Z</published>
+    <updated>2020-06-18T10:14:23.365Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="随想" scheme="/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+      <category term="中二" scheme="/tags/%E4%B8%AD%E4%BA%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>夏日有感</title>
+    <link href="/2020/05/12/%E5%A4%8F%E6%97%A5%E6%9C%89%E6%84%9F/"/>
+    <id>/2020/05/12/夏日有感/</id>
+    <published>2020-05-12T00:19:23.000Z</published>
+    <updated>2020-05-19T02:15:11.959Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="随想" scheme="/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+      <category term="发发牢骚" scheme="/tags/%E5%8F%91%E5%8F%91%E7%89%A2%E9%AA%9A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>哲理小句</title>
+    <link href="/2020/04/26/%E5%93%B2%E7%90%86%E5%B0%8F%E5%8F%A5/"/>
+    <id>/2020/04/26/哲理小句/</id>
+    <published>2020-04-26T12:57:17.000Z</published>
+    <updated>2020-04-27T02:32:05.718Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ol&gt;
+&lt;li&gt;&amp;emsp;&amp;emsp;我装作老成，人人就传言我老成。我假装是个懒汉，人人就谣传我是懒惰虫。我假装不会写小说，人们就说我不会写。我伪装成骗子，人们就说我是个骗子。我充阔，人人以为我是阔佬。我故作冷淡，人人就说我是个无情的家伙。然而，当我真的痛苦万分，不由得呻吟时
+        
+      
+    
+    </summary>
+    
+      <category term="随想" scheme="/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+      <category term="美句" scheme="/tags/%E7%BE%8E%E5%8F%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>名著名句</title>
+    <link href="/2020/04/26/%E5%90%8D%E8%91%97%E5%90%8D%E5%8F%A5/"/>
+    <id>/2020/04/26/名著名句/</id>
+    <published>2020-04-26T12:48:19.000Z</published>
+    <updated>2020-04-26T12:54:18.981Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&amp;emsp;&amp;emsp;你以为我穷、低微、不美、矮小，我就没有灵魂、没有心吗？——你想错了！——我跟你一样有灵魂——也完全一样有一颗心！要是上帝赐给了我一点美貌和大量财富，我也会让你感到难以离开我，就像我现在难以离开你一样。我现在不是凭着习俗、常规，甚至也不是凭着肉体凡胎跟
+        
+      
+    
+    </summary>
+    
+      <category term="转载" scheme="/categories/%E8%BD%AC%E8%BD%BD/"/>
+    
+    
+      <category term="名著" scheme="/tags/%E5%90%8D%E8%91%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>随想</title>
+    <link href="/2020/04/24/%E9%9A%8F%E6%83%B3/"/>
+    <id>/2020/04/24/随想/</id>
+    <published>2020-04-24T13:37:18.000Z</published>
+    <updated>2020-06-18T09:26:24.104Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="随想" scheme="/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+      <category term="发发牢骚" scheme="/tags/%E5%8F%91%E5%8F%91%E7%89%A2%E9%AA%9A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-Theme-Sakura</title>
+    <link href="/2020/04/08/Hexo-Theme-Sakura/"/>
+    <id>/2020/04/08/Hexo-Theme-Sakura/</id>
+    <published>2020-04-08T14:16:01.000Z</published>
+    <updated>2020-04-15T01:24:05.637Z</updated>
+    
+    <summary type="html">
+    
+      hexo-sakura主题使用教程
+    
+    </summary>
+    
+      <category term="学习" scheme="/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+  </entry>
+  
+</feed>
