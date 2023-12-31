@@ -636,19 +636,10 @@ daovoice('update');
                 </a>
                 
                 
-                <a href="/tags/名著/" title="名著: 1">
-                    <span class="chip center-align waves-effect waves-light
-                             chip-default "
-                            data-tagname="名著" style="background-color: #F5EEF8;">名著
-                        <span class="tag-length">1</span>
-                    </span>
-                </a>
-                
-                
                 <a href="/tags/C-开发/" title="C++开发: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="C++开发" style="background-color: #D5F5E3;">C++开发
+                            data-tagname="C++开发" style="background-color: #F5EEF8;">C++开发
                         <span class="tag-length">1</span>
                     </span>
                 </a>
@@ -657,16 +648,7 @@ daovoice('update');
                 <a href="/tags/美句/" title="美句: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="美句" style="background-color: #E8F8F5;">美句
-                        <span class="tag-length">1</span>
-                    </span>
-                </a>
-                
-                
-                <a href="/tags/悦读/" title="悦读: 1">
-                    <span class="chip center-align waves-effect waves-light
-                             chip-default "
-                            data-tagname="悦读" style="background-color: #FEF9E7;">悦读
+                            data-tagname="美句" style="background-color: #D5F5E3;">美句
                         <span class="tag-length">1</span>
                     </span>
                 </a>
@@ -675,8 +657,26 @@ daovoice('update');
                 <a href="/tags/发发牢骚/" title="发发牢骚: 3">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="发发牢骚" style="background-color: #F8F9F9;">发发牢骚
+                            data-tagname="发发牢骚" style="background-color: #E8F8F5;">发发牢骚
                         <span class="tag-length">3</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/名著/" title="名著: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="名著" style="background-color: #FEF9E7;">名著
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/悦读/" title="悦读: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="悦读" style="background-color: #F8F9F9;">悦读
+                        <span class="tag-length">1</span>
                     </span>
                 </a>
                 
@@ -712,7 +712,7 @@ daovoice('update');
 <script type="text/javascript">
     
 
-    $('#tag-wordcloud').jQCloud([{"text":"年终总结 发发牢骚","weight":1,"link":"/tags/年终总结-发发牢骚/"},{"text":"名著","weight":1,"link":"/tags/名著/"},{"text":"C++开发","weight":1,"link":"/tags/C-开发/"},{"text":"美句","weight":1,"link":"/tags/美句/"},{"text":"悦读","weight":1,"link":"/tags/悦读/"},{"text":"发发牢骚","weight":3,"link":"/tags/发发牢骚/"},{"text":"中二","weight":1,"link":"/tags/中二/"}], {
+    $('#tag-wordcloud').jQCloud([{"text":"年终总结 发发牢骚","weight":1,"link":"/tags/年终总结-发发牢骚/"},{"text":"C++开发","weight":1,"link":"/tags/C-开发/"},{"text":"美句","weight":1,"link":"/tags/美句/"},{"text":"发发牢骚","weight":3,"link":"/tags/发发牢骚/"},{"text":"名著","weight":1,"link":"/tags/名著/"},{"text":"悦读","weight":1,"link":"/tags/悦读/"},{"text":"中二","weight":1,"link":"/tags/中二/"}], {
         autoResize: true
     });
 </script>
@@ -752,7 +752,7 @@ daovoice('update');
                     color: '#3C4858'
                 }
             },
-            indicator: [{"name":"年终总结","max":6},{"name":"转载","max":6},{"name":"学习","max":6},{"name":"随想","max":6}],
+            indicator: [{"name":"年终总结","max":6},{"name":"学习","max":6},{"name":"随想","max":6},{"name":"转载","max":6}],
             nameGap: 5,
             center: ['50%','55%'],
             radius: '66%'
@@ -763,7 +763,7 @@ daovoice('update');
             itemStyle: {normal: {areaStyle: {type: 'default'}}},
             data : [
                 {
-                    value : [1,1,2,5],
+                    value : [1,2,5,1],
                     name : '文章数量'
                 }
             ]
