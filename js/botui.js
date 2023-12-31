@@ -26,7 +26,7 @@ function bot_ui_ini() {
     }).then(function () {
         botui.message.add({
             delay: 1100,
-            content: "这里是 six"
+            content: "这里是 shy"
         }).then(function () {
             botui.message.add({
                 delay: 1100,
@@ -90,8 +90,8 @@ function bot_ui_ini() {
                                     botui.action.button({
                                         delay: 1100,
                                         action: [{
-                                            text: "为什么叫six呢？ 🤔",
-                                            value: "why-six"
+                                            text: "为什么叫shy呢？ 🤔",
+                                            value: "why-shy"
                                         }]
                                     }).then(function (a) {
                                         thirdpart()
@@ -106,7 +106,7 @@ function bot_ui_ini() {
         thirdpart = function () {
             botui.message.add({
                 delay: 1E3,
-                content: "并不是因为自己排行老六哈，其实是高中同学起的外号六哥，还挺怀念的"
+                content: "哈哈，只是因为我的名字缩写是shy罢了"
             }).then(function () {
                 botui.action.button({
                     delay: 1500,
