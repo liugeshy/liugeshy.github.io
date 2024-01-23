@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2024-01-10T03:28:15.919Z</updated>
+  <updated>2024-01-23T11:29:57.900Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日寄</title>
+    <link href="/2024/01/23/%E6%97%A5%E8%AE%B0/"/>
+    <id>/2024/01/23/日记/</id>
+    <published>2024-01-23T10:50:19.000Z</published>
+    <updated>2024-01-23T11:29:57.900Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&amp;emsp;&amp;emsp;今天去工位的路上遇到了师兄，他问我几号回家，我说这周末，他告诉我我回去的时间已经够晚了，我们算是实验室几届研一里回去的最晚的了。我也这么觉得，毕竟我待在这里也没什么事做了，要说有事做倒是也可能有，只是我已经摸了两天鱼了。&lt;br&gt;&amp;emsp;&amp;emsp
+        
+      
+    
+    </summary>
+    
+      <category term="随想" scheme="/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+      <category term="日记" scheme="/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>生日快乐！</title>
@@ -47,7 +73,7 @@
     <link href="/2023/12/31/2023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
     <id>/2023/12/31/2023年终总结/</id>
     <published>2023-12-31T03:13:58.000Z</published>
-    <updated>2024-01-10T03:25:03.267Z</updated>
+    <updated>2024-01-23T10:52:05.606Z</updated>
     
     <summary type="html">
     
@@ -61,10 +87,10 @@
     
     </summary>
     
-      <category term="年终总结" scheme="/categories/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
+      <category term="随想" scheme="/categories/%E9%9A%8F%E6%83%B3/"/>
     
     
-      <category term="年终总结 发发牢骚" scheme="/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93-%E5%8F%91%E5%8F%91%E7%89%A2%E9%AA%9A/"/>
+      <category term="年终总结" scheme="/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
