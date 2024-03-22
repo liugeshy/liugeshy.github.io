@@ -302,6 +302,16 @@ daovoice('update');
               </li>
             
               <li>
+                <a href="/gallery/">
+                  <span class="faa-parent animated-hover">
+                    <i class="fa  fa-photo" aria-hidden="true"></i>
+                    相册
+                  </span>
+                </a>
+                
+              </li>
+            
+              <li>
                 <a href="/comment/">
                   <span class="faa-parent animated-hover">
                     <i class="fa  fa-pencil-square-o faa-tada" aria-hidden="true"></i>
@@ -524,6 +534,16 @@ daovoice('update');
               </li>
             
               <li>
+                <a href="/gallery/">
+                  <span class="faa-parent animated-hover">
+                    <i class="fa  fa-photo" aria-hidden="true"></i>
+                    相册
+                  </span>
+                </a>
+                
+              </li>
+            
+              <li>
                 <a href="/comment/">
                   <span class="faa-parent animated-hover">
                     <i class="fa  fa-pencil-square-o faa-tada" aria-hidden="true"></i>
@@ -637,19 +657,19 @@ daovoice('update');
                 </a>
                 
                 
-                <a href="/tags/名著/" title="名著: 1">
+                <a href="/tags/悦读/" title="悦读: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="名著" style="background-color: #D5F5E3;">名著
+                            data-tagname="悦读" style="background-color: #D5F5E3;">悦读
                         <span class="tag-length">1</span>
                     </span>
                 </a>
                 
                 
-                <a href="/tags/悦读/" title="悦读: 1">
+                <a href="/tags/名著/" title="名著: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="悦读" style="background-color: #E8F8F5;">悦读
+                            data-tagname="名著" style="background-color: #E8F8F5;">名著
                         <span class="tag-length">1</span>
                     </span>
                 </a>
@@ -664,19 +684,19 @@ daovoice('update');
                 </a>
                 
                 
-                <a href="/tags/美句/" title="美句: 1">
+                <a href="/tags/中二/" title="中二: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="美句" style="background-color: #F8F9F9;">美句
+                            data-tagname="中二" style="background-color: #F8F9F9;">中二
                         <span class="tag-length">1</span>
                     </span>
                 </a>
                 
                 
-                <a href="/tags/中二/" title="中二: 1">
+                <a href="/tags/日记/" title="日记: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="中二" style="background-color: #82E0AA;">中二
+                            data-tagname="日记" style="background-color: #82E0AA;">日记
                         <span class="tag-length">1</span>
                     </span>
                 </a>
@@ -691,10 +711,19 @@ daovoice('update');
                 </a>
                 
                 
-                <a href="/tags/日记/" title="日记: 1">
+                <a href="/tags/美句/" title="美句: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="日记" style="background-color: #A3E4D7;">日记
+                            data-tagname="美句" style="background-color: #A3E4D7;">美句
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/图片/" title="图片: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="图片" style="background-color: #85C1E9;">图片
                         <span class="tag-length">1</span>
                     </span>
                 </a>
@@ -722,7 +751,7 @@ daovoice('update');
 <script type="text/javascript">
     
 
-    $('#tag-wordcloud').jQCloud([{"text":"C++开发","weight":1,"link":"/tags/C-开发/"},{"text":"年终总结","weight":1,"link":"/tags/年终总结/"},{"text":"名著","weight":1,"link":"/tags/名著/"},{"text":"悦读","weight":1,"link":"/tags/悦读/"},{"text":"发发牢骚","weight":3,"link":"/tags/发发牢骚/"},{"text":"美句","weight":1,"link":"/tags/美句/"},{"text":"中二","weight":1,"link":"/tags/中二/"},{"text":"纪念","weight":1,"link":"/tags/纪念/"},{"text":"日记","weight":1,"link":"/tags/日记/"}], {
+    $('#tag-wordcloud').jQCloud([{"text":"C++开发","weight":1,"link":"/tags/C-开发/"},{"text":"年终总结","weight":1,"link":"/tags/年终总结/"},{"text":"悦读","weight":1,"link":"/tags/悦读/"},{"text":"名著","weight":1,"link":"/tags/名著/"},{"text":"发发牢骚","weight":3,"link":"/tags/发发牢骚/"},{"text":"中二","weight":1,"link":"/tags/中二/"},{"text":"日记","weight":1,"link":"/tags/日记/"},{"text":"纪念","weight":1,"link":"/tags/纪念/"},{"text":"美句","weight":1,"link":"/tags/美句/"},{"text":"图片","weight":1,"link":"/tags/图片/"}], {
         autoResize: true
     });
 </script>
@@ -762,7 +791,7 @@ daovoice('update');
                     color: '#3C4858'
                 }
             },
-            indicator: [{"name":"学习","max":8},{"name":"随想","max":8},{"name":"转载","max":8}],
+            indicator: [{"name":"学习","max":8},{"name":"随想","max":8},{"name":"转载","max":8},{"name":"相册","max":8}],
             nameGap: 5,
             center: ['50%','55%'],
             radius: '66%'
@@ -773,7 +802,7 @@ daovoice('update');
             itemStyle: {normal: {areaStyle: {type: 'default'}}},
             data : [
                 {
-                    value : [3,7,1],
+                    value : [3,7,1,1],
                     name : '文章数量'
                 }
             ]
@@ -1096,6 +1125,16 @@ $(document).ready(function() {
               </li>
             
           </ul>
+        
+      </li>
+    
+      <li>
+        <a href="/gallery/">
+          <span class="faa-parent animated-hover">
+            <i class="fa  fa-photo" aria-hidden="true"></i>
+            相册
+          </span>
+        </a>
         
       </li>
     
