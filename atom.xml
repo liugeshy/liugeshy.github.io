@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2024-03-22T06:06:01.400Z</updated>
+  <updated>2024-04-25T08:23:20.486Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>回溯算法</title>
+    <link href="/2024/04/25/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/"/>
+    <id>/2024/04/25/回溯算法/</id>
+    <published>2024-04-25T07:56:25.000Z</published>
+    <updated>2024-04-25T08:23:20.486Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&amp;emsp;&amp;emsp;回溯算法，刷题刷完了就忘记了，记录一下。&lt;br&gt;&amp;emsp;&amp;emsp;首先定义dfs函数，dfs里面第一点，先判断退出条件，之后在结果里先放一个，然后回溯，然后弹出，伪代码如下&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;void dfs()
+{
+   
+        
+      
+    
+    </summary>
+    
+      <category term="学习" scheme="/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="算法" scheme="/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>花火图片</title>
